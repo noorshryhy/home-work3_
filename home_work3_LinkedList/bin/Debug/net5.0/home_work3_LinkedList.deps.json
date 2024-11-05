@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "home_work3_LinkedList/1.0.0": {
+        "runtime": {
+          "home_work3_LinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "home_work3_LinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

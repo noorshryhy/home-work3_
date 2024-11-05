@@ -1,0 +1,16 @@
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\bin\Debug\net5.0\home_work3_LinkedList.exe
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\bin\Debug\net5.0\home_work3_LinkedList.deps.json
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\bin\Debug\net5.0\home_work3_LinkedList.runtimeconfig.json
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\bin\Debug\net5.0\home_work3_LinkedList.runtimeconfig.dev.json
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\bin\Debug\net5.0\home_work3_LinkedList.dll
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\bin\Debug\net5.0\ref\home_work3_LinkedList.dll
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\bin\Debug\net5.0\home_work3_LinkedList.pdb
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\obj\Debug\net5.0\home_work3_LinkedList.csproj.AssemblyReference.cache
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\obj\Debug\net5.0\home_work3_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\obj\Debug\net5.0\home_work3_LinkedList.AssemblyInfoInputs.cache
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\obj\Debug\net5.0\home_work3_LinkedList.AssemblyInfo.cs
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\obj\Debug\net5.0\home_work3_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\obj\Debug\net5.0\home_work3_LinkedList.dll
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\obj\Debug\net5.0\ref\home_work3_LinkedList.dll
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\obj\Debug\net5.0\home_work3_LinkedList.pdb
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home_work3_LinkedList\obj\Debug\net5.0\home_work3_LinkedList.genruntimeconfig.cache
